@@ -1,9 +1,25 @@
 .important{
   font-family: fantasy;
   color: darkblue;
-  text-shadow: black 10px 10px;
 }
+
 .items {
   font-style: oblique;
 
+}
+
+.green-background {
+  background-color: green;
+}
+
+.light-text {
+  color: yellow;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.dark-text {
+  color: blue;
 }
